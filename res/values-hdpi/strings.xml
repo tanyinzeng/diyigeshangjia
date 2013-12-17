@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">谁是卧底</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="back">返回</string>
+	<string name="warn">题库由系统自动产生，如不明白游戏规则，请详细阅读游戏说明，添加主持人后就会从玩家总数中自动去掉一个人来作为主持人，主持人知道每个人的牌，但是不能给人已暗示，主持人的作用是主持整个局面，每个人的描述中的字不能跟你拿到的词语有相同的字。主持人为最后一张牌，如果选了主持人，请玩家不要点击最后一张牌</string>
+	<string name="kai_shi">开始</string>
+	<string name="chong_xin_kai_shi">重新开始</string>
+	<string name="chou_qian_zhong">抽签中</string>
+	<string name="you_xi_zhong">游戏中</string>
+	<string name="you_xi_jie_su">游戏结束</string>
+	<string name="xian_fa_yan">号先发言</string>
+	<string name="wo_di">卧底</string>
+	<string name="yuan_si">冤死</string>
+	<string name="sheng_li">胜利</string>
+	<string name="you_xi_shuo_ming">1、游戏人数：要求4人以上，有3种基本身份，平民、卧底、白板。其中可以选择是否在游戏中加入白板。\n2、身份词：所有平民获得相同词语；卧底获得与平民相似但不同的词语（如卧底多于1人，则所有卧底词相同）；白板则不获得任何词语。\n3、发言：所有玩家轮流发言，描述自己的词语，既不能让卧底察觉，也要给同伴暗示。如有玩家出局则从下一位开始发言。\n4、投票：每轮描述完毕，所有玩家投票选出怀疑的人，得票最多者出局。如果有多人得票相同，则他们重新描述进行PK，并由剩余的人对他们进行投票。\n5、胜利条件：如所有卧底及白板出局，则平民获胜；当＜7人游戏时，如卧底在还剩2人时存活即获胜，当≥7人游戏时，如卧底在还剩3人时存活即获胜；如所有卧底出局且白板存活，则白板获胜。</string>
+</resources>

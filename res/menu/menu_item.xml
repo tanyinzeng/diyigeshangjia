@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/update"
+        android:title="版本更新">
+    </item>
+
+    <item
+        android:id="@+id/shu_ju_update"
+        android:title="数据更新">
+    </item>
+    <item
+        android:id="@+id/share"
+        android:title="分享好友">
+    </item>
+    <item
+        android:id="@+id/fan_kui"
+        android:title="反馈意见">
+    </item>
+    <item
+        android:id="@+id/ruan_jian_desc"
+        android:title="软件说明">
+    </item>
+</menu>

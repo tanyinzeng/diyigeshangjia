@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+
+     <include
+        android:id="@+id/title_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_height"
+        layout="@layout/title" />
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title_layout" >
+
+        <RelativeLayout
+            android:id="@+id/current_point_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_10px"
+            android:layout_marginTop="@dimen/margin_10px" >
+
+            <TextView
+                android:id="@+id/current_point_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="当前积分："
+                android:textSize="@dimen/Larger_text_size" />
+
+            <TextView
+                android:id="@+id/total_point"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/current_point_title"
+                android:text="0"
+                android:textSize="@dimen/Larger_text_size" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/current_point_layout"
+            android:layout_marginLeft="@dimen/margin_10px"
+            android:layout_marginRight="@dimen/margin_10px"
+            android:layout_marginTop="@dimen/margin_10px"
+            android:text="注意：请不要相信任何提示你需要注册、试玩才能获得金币的信息。您只需安装并打开就可以获得积分，随后不需要就可以删掉，每天会更新喔！只要下载成功并安装过后，积分可能会延迟才会加到帐号上，如有问题，联系qq：782609608" />
+
+        <Button
+            android:id="@+id/get_point"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_desc"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="@dimen/margin_10px"
+            android:background="@drawable/shape"
+            android:text="获取金币" />
+        <TextView 
+            android:id="@+id/tv_01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/get_point"
+            android:layout_marginLeft="@dimen/margin_10px"
+            android:layout_marginRight="@dimen/margin_10px"
+            android:layout_marginTop="@dimen/margin_10px"
+            android:text="1200积分可获得5元话费"
+            />
+        
+       
+        <RelativeLayout 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_01"
+            android:layout_marginTop="@dimen/margin_10px"
+            android:layout_marginLeft="@dimen/margin_10px"
+            android:layout_marginRight="@dimen/margin_10px">
+            <Button 
+                android:id="@+id/sure_send"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="充值"
+                android:background="@drawable/shape"
+                android:layout_alignParentRight="true"/>
+            <EditText 
+                android:id="@+id/et_phone"
+                android:layout_width="fill_parent"
+                android:layout_toLeftOf="@id/sure_send"
+                android:layout_height="wrap_content"
+                android:inputType="phone"
+                />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

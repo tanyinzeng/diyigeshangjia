@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cards>
+    <card>
+        <pingming>盗墓笔记</pingming>
+        <wodi>鬼吹灯</wodi>
+    </card>
+    <card>
+        <pingming>iphone</pingming>
+        <wodi>ipad</wodi>
+    </card>
+    <card>
+        <pingming>七喜</pingming>
+        <wodi>雪碧</wodi>
+    </card>
+    <card>
+        <pingming>两小无猜</pingming>
+        <wodi>青梅竹马</wodi>
+    </card>
+    <card>
+        <pingming>马尔代夫</pingming>
+        <wodi>普吉岛</wodi>
+    </card>
+    <card>
+        <pingming>龙凤呈祥</pingming>
+        <wodi>鸳鸯戏水</wodi>
+    </card>
+    <card>
+        <pingming>钟</pingming>
+        <wodi>表</wodi>
+    </card>
+    <card>
+        <pingming>玉米</pingming>
+        <wodi>高粱</wodi>
+    </card>
+    <card>
+        <pingming>铅球</pingming>
+        <wodi>铁饼</wodi>
+    </card>
+    <card>
+        <pingming>散文</pingming>
+        <wodi>小说</wodi>
+    </card>
+    <card>
+        <pingming>菠萝蜜</pingming>
+        <wodi>榴莲</wodi>
+    </card>
+<card>
+        <pingming>勇往直前</pingming>
+        <wodi>全力以赴</wodi>
+    </card>
+    <card>
+        <pingming>鱼香肉丝</pingming>
+        <wodi>四喜丸子</wodi>
+    </card>
+    <card>
+        <pingming>麻婆豆腐</pingming>
+        <wodi>皮蛋豆腐 </wodi>
+    </card>
+    <card>
+        <pingming>语无伦次</pingming>
+        <wodi>词不达意</wodi>
+    </card>
+    <card>
+        <pingming>鼠目寸光</pingming>
+        <wodi>井底之蛙</wodi>
+    </card>
+    <card>
+        <pingming>近视眼镜</pingming>
+        <wodi>隐形眼镜</wodi>
+    </card>
+    
+	<card>
+        <pingming>降龙十八掌</pingming>
+        <wodi>九阴白骨爪 </wodi>
+    </card>
+    <card>
+        <pingming>红烧牛肉面</pingming>
+        <wodi>香辣牛肉面 </wodi>
+    </card>
+    <card>
+        <pingming>江南style</pingming>
+        <wodi>最炫民族风</wodi>
+    </card>
+<card>
+        <pingming>梁山伯与祝英台</pingming>
+        <wodi>罗密欧与朱丽 </wodi>
+    </card>
+    <card>
+        <pingming>奖牌</pingming>
+        <wodi>金牌 </wodi>
+    </card>
+    <card>
+        <pingming>孟飞</pingming>
+        <wodi>乐嘉 </wodi>
+    </card>
+<card>
+        <pingming>面包</pingming>
+        <wodi>蛋糕 </wodi>
+    </card>
+    <card>
+        <pingming>壁纸</pingming>
+        <wodi>贴画  </wodi>
+    </card>
+    <card>
+        <pingming>枕头</pingming>
+        <wodi>抱枕  </wodi>
+    </card>
+<card>
+        <pingming>魔术师</pingming>
+        <wodi>魔法师 </wodi>
+    </card>
+    <card>
+        <pingming>串串香</pingming>
+        <wodi>羊肉串</wodi>
+    </card>
+    <card>
+        <pingming>吸血鬼</pingming>
+        <wodi>僵尸  </wodi>
+    </card>
+
+<card>
+        <pingming>玫瑰</pingming>
+        <wodi>月季 </wodi>
+    </card>
+    <card>
+        <pingming>董永</pingming>
+        <wodi>许仙 </wodi>
+    </card>
+    <card>
+        <pingming>若曦</pingming>
+        <wodi>晴川 </wodi>
+    </card>
+<card>
+        <pingming>谢娜</pingming>
+        <wodi>李湘</wodi>
+    </card>
+    <card>
+        <pingming>牛奶</pingming>
+        <wodi>豆浆</wodi>
+    </card>
+    <card>
+        <pingming>保安</pingming>
+        <wodi>保镖</wodi>
+    </card>
+<card>
+        <pingming>白菜</pingming>
+        <wodi>生菜 </wodi>
+    </card>
+    <card>
+        <pingming>辣椒</pingming>
+        <wodi>芥末</wodi>
+    </card>
+    <card>
+        <pingming>金庸</pingming>
+        <wodi>古龙</wodi>
+    </card>
+	<card>
+        <pingming>唇膏</pingming>
+        <wodi>口红 </wodi>
+    </card>
+    <card>
+        <pingming>森马</pingming>
+        <wodi>以纯 </wodi>
+    </card>
+    <card>
+        <pingming>烤肉</pingming>
+        <wodi>涮肉</wodi>
+    </card>
+    <card>
+        <pingming>气泡</pingming>
+        <wodi>水泡</wodi>
+    </card>
+ 
+<card>
+        <pingming>纸巾</pingming>
+        <wodi>手帕</wodi>
+    </card>
+	<card>
+        <pingming>杭州</pingming>
+        <wodi>苏州 </wodi>
+    </card>
+    <card>
+        <pingming>香港</pingming>
+        <wodi>台湾 </wodi>
+    </card>
+    <card>
+        <pingming>首尔</pingming>
+        <wodi>东京</wodi>
+    </card>
+    <card>
+        <pingming>气泡</pingming>
+        <wodi>水泡</wodi>
+    </card>
+
+  <card>
+        <pingming>橙子</pingming>
+        <wodi>橘子</wodi>
+    </card>
+	<card>
+        <pingming>葡萄</pingming>
+        <wodi>提子 </wodi>
+    </card>
+    <card>
+        <pingming>太监</pingming>
+        <wodi>人妖  </wodi>
+    </card>
+    <card>
+        <pingming>蝴蝶</pingming>
+        <wodi>蜜蜂</wodi>
+    </card>
+    <card>
+        <pingming>裸婚</pingming>
+        <wodi>闪婚 </wodi>
+    </card>
+
+<card>
+        <pingming>吉他</pingming>
+        <wodi>琵琶</wodi>
+    </card>
+	<card>
+        <pingming>公交</pingming>
+        <wodi>地铁 </wodi>
+    </card>
+    <card>
+        <pingming>剩女</pingming>
+        <wodi>御姐 </wodi>
+    </card>
+    <card>
+        <pingming>童话</pingming>
+        <wodi>神话 </wodi>
+    </card>
+    <card>
+        <pingming>作家</pingming>
+        <wodi>编剧 </wodi>
+    </card>
+<card>
+        <pingming>警察</pingming>
+        <wodi>捕快</wodi>
+    </card>
+	<card>
+        <pingming>结婚</pingming>
+        <wodi>订婚  </wodi>
+    </card>
+    <card>
+        <pingming>生活费</pingming>
+        <wodi>零花钱 </wodi>
+    </card>
+    <card>
+        <pingming>麦克风</pingming>
+        <wodi>扩音器  </wodi>
+    </card>
+    <card>
+        <pingming>郭德纲</pingming>
+        <wodi>周立波  </wodi>
+    </card>
+    <card>
+        <pingming>图书馆</pingming>
+        <wodi>图书店 </wodi>
+    </card>
+ 
+<card>
+        <pingming>洗衣粉</pingming>
+        <wodi>皂角粉 </wodi>
+    </card>
+	<card>
+        <pingming>牛肉干</pingming>
+        <wodi>猪肉脯</wodi>
+    </card>
+    <card>
+        <pingming>土豆粉</pingming>
+        <wodi>酸辣粉 </wodi>
+    </card>
+    <card>
+        <pingming>蜘蛛侠</pingming>
+        <wodi>蝙蝠侠 </wodi>
+    </card>
+    <card>
+        <pingming>口香糖</pingming>
+        <wodi>木糖醇  </wodi>
+    </card>
+    <card>
+        <pingming>酸菜鱼</pingming>
+        <wodi>水煮鱼 </wodi>
+    </card>
+
+<card>
+        <pingming>大白兔</pingming>
+        <wodi>金丝猴</wodi>
+    </card>
+<card>
+        <pingming>小笼包</pingming>
+        <wodi>灌汤包</wodi>
+    </card>
+	<card>
+        <pingming>薰衣草</pingming>
+        <wodi>满天星</wodi>
+    </card>
+    <card>
+        <pingming>土豆粉</pingming>
+        <wodi>酸辣粉 </wodi>
+    </card>
+    <card>
+        <pingming>甄嬛传</pingming>
+        <wodi>红楼梦 </wodi>
+    </card>
+    <card>
+        <pingming>甄子丹</pingming>
+        <wodi>李连杰  </wodi>
+    </card>
+    <card>
+        <pingming>包青天</pingming>
+        <wodi>狄仁杰 </wodi>
+    </card>
+
+<card>
+        <pingming>神雕侠侣</pingming>
+        <wodi>天龙八部</wodi>
+    </card>
+<card>
+        <pingming>贵妃醉酒</pingming>
+        <wodi>黛玉葬花</wodi>
+    </card>
+	<card>
+        <pingming>福尔摩斯</pingming>
+        <wodi>工藤新一</wodi>
+    </card>
+    <card>
+        <pingming>十面埋伏</pingming>
+        <wodi>四面楚歌</wodi>
+    </card>
+    <card>
+        <pingming>过山车</pingming>
+        <wodi>碰碰车 </wodi>
+    </card>
+    <card>
+        <pingming>沐浴露</pingming>
+        <wodi>沐浴盐</wodi>
+    </card>
+    <card>
+        <pingming>果粒橙</pingming>
+        <wodi>鲜橙多</wodi>
+    </card>
+    
+</cards>
