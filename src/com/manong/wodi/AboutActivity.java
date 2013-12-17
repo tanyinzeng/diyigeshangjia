@@ -22,6 +22,7 @@ public class AboutActivity extends Activity {
 				finish();
 			}
 		});
+		
 		TextView tvTitle = (TextView)findViewById(R.id.title_text);
 		tvTitle.setText("ÓÎÏ·ËµÃ÷");
 	}
